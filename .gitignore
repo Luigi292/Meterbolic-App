@@ -1,8 +1,9 @@
+# Ignore .next folder, node_modules/ (Next.js build folder)
 
-
-# Ignore .next folder (Next.js build folder)
 /.next
 
+# Ignore node_modules folder
+/node_modules
 
 # Ignore node_modules folder
 /node_modules
