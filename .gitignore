@@ -1,9 +1,11 @@
-# Ignore node_modules folder
-node_modules/
+
 
 # Ignore .next folder (Next.js build folder)
-.next/
+/.next
 
+
+# Ignore node_modules folder
+/node_modules
 # Ignore Yarn lock file (if you're using npm instead, you can skip this)
 yarn.lock
 
