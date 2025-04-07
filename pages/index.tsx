@@ -18,18 +18,6 @@ export default function Home() {
         <Chatbot />
       </section>
 
-      <section className={styles.chatbotSection}>
-        <h2>Need Help? Chat with our AI!</h2>
-        <Chatbot />
-      </section>
-      <section className={styles.chatbotSection}>
-        <h2>Need Help? Chat with our AI!</h2>
-        <Chatbot />
-      </section>
-      <section className={styles.chatbotSection}>
-        <h2>Need Help? Chat with our AI!</h2>
-        <Chatbot />
-      </section>
 
       <footer className={styles.footer}>
         <p className={styles.footerText}>Powered by Meterbolic &copy; {new Date().getFullYear()}</p>
