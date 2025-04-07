@@ -18,6 +18,12 @@ export default function Home() {
         <Chatbot />
       </section>
 
+      <section className={styles.chatbotSection}>
+        <h2>Cat with Me</h2>
+        <Chatbot />
+      </section>
+
+
 
       <footer className={styles.footer}>
         <p className={styles.footerText}>Powered by Meterbolic &copy; {new Date().getFullYear()}</p>
